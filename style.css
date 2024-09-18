@@ -59,7 +59,7 @@ nav {
 
 .header-section {
     position: relative;
-    background-image: url('/logo imgs/The GP.jpg');
+    background-image: url('The GP.jpg');
     height: 100vh;
     background-attachment: fixed;
     background-position: center;
